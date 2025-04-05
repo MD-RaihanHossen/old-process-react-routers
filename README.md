@@ -1,5 +1,5 @@
-
-
+{ 
+<!--
 const router = createBrowserRouter([
   {
     path: "/",
@@ -44,6 +44,8 @@ createRoot(document.getElementById('root')).render(
   </StrictMode>,
 )
 
+  -->
+ }
 ..........................>>> ........................>>> ........................
 
 1. how to create route with use children component  path here and how call api by usedsing Loader and  useLoaderData(). 
